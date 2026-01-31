@@ -1,0 +1,41 @@
+.successProfile-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f4f811;
+}
+
+.successProfile-title{
+    font-size: 1.5rem;
+    color: #4BB543;
+    margin-bottom: 1rem;
+}
+
+.successProfile-image{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 1.5rem;
+}
+
+.successProfile-message{
+    font-size: 1.2rem;
+    color: #ffffff;
+    text-align: center;
+    max-width: 400px;
+}
+
+.botaoAlterar {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 0 auto;
+    display: block;
+}
+

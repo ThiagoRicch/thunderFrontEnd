@@ -1,0 +1,12 @@
+.botaoAlterar {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 0 auto;
+    display: block;
+}

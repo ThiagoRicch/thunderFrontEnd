@@ -1,0 +1,74 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    border: 3px solid grey;
+    border-radius: 10px;
+    width: 400px;
+    height: 500px;
+}
+
+.formulario input{
+    width: 300px;
+    height: 40px;
+    margin-bottom: 20px;
+    padding: 30px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.formulario h2{
+    color: blue;
+    font-size: 30px;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+
+.tituloLogin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    color: rgb(77, 184, 255);
+}
+
+.login-all{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.botaoLogin {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 0 auto;
+    display: block;
+}
+
+.pergunta-register {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    color: white;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
